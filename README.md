@@ -1,7 +1,8 @@
 # Gulp-Bootstrap
 
 Snippet para o uso do Gulp, junto com a framework Bootstrap.
-Nela estão ativos -> <br>
+Nela estão ativos 
+-> <br>
 
 <ul>
   <li>AutoPrefixer</li>
@@ -10,3 +11,6 @@ Nela estão ativos -> <br>
   <li>Concat</li>
 </ul>
 
+<br>
+
+Para instalar é necessário ter o NodeJS e o NPM.
