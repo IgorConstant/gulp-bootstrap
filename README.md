@@ -12,7 +12,7 @@ Snippet para o uso do Gulp, junto com a framework Bootstrap.
 
 <br>
 
-Para instalar é necessário ter o NodeJS e o NPM. <br>
+Para instalar é necessário ter o NodeJS, NPM ou Yarn. <br>
 
 <ul>
   <li>yarn -> download das depedências.</li>
